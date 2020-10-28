@@ -13,5 +13,5 @@ public class RestSearchVo {
     private String keywordNm;
     private String currentPage;
     private int pageSize = 10;
-    
+
 }
